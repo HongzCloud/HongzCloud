@@ -4,7 +4,7 @@
 
 </div>
 
-### 🌱   iOS Developer
+## 🌱   iOS Developer
 
 - I am learning mobile iOS at codesquad
 
